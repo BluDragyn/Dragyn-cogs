@@ -1,0 +1,8 @@
+{
+    "author" : ["BluDragyn"],
+    "install_msg" : "Thank you for installing my cog!",
+    "name" : "Obedience",
+    "short" : "Task tracking for Doms/subs",
+    "description" : "Allows Dominants to setup tasks for their submissives and keep track of their completion.",
+    "tags" : ["BDSM", "tracking", "tasks"]
+}
